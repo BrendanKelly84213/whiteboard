@@ -1,8 +1,8 @@
-#Digit Whiteboard 
+# Digit Whiteboard 
 
 An app for keeping track of daily tasks in the workplace
 
-#Build 
+# Build 
 
 The app runs on React Native and Expo. Nodejs backend located in a seperate repository
 
